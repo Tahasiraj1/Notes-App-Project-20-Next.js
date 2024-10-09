@@ -119,7 +119,7 @@ export default function NotesApp() {
       backgroundSize: 'cover'
     }}
     >
-      <header className="bg-gradient-to-br from-amber-600 via-amber-500 to-black p-4 shadow">
+      <header className="bg-gradient-to-br from-amber-600 via-amber-500 to-black rounded-b-xl p-4 shadow">
         <h1 className="text-2xl font-bold flex gap-1">
         <NotebookPen className="mt-1" fill="white" />Note Taker
         </h1>
